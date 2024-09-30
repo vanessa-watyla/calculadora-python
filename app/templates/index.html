@@ -26,6 +26,8 @@
         <button type="submit">Calcular</button>
     </form>
 
-   
+    {% if resultado is not None %}
+        <h2>Resultado: {{ resultado }}</h2>
+    {% endif %}
 </body>
 </html>
