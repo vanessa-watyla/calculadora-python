@@ -23,4 +23,4 @@ def calculator_view(request):
             else:
                 resultado = "Erro: Divisão por zero"
 
-    return render(request, 'calculator.html', {'resultado': resultado, 'operacao': operacao})
+    return render(request, 'index.html', {'resultado': resultado, 'operacao': operacao})
