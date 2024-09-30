@@ -14,3 +14,9 @@ Este projeto é uma aplicação web de **calculadora** desenvolvida em **Django*
 - **Django**: Framework web para criação da aplicação.
 - **HTML/CSS**: Para estrutura e estilo da interface.
 - **JavaScript**: Para funcionalidades interativas da calculadora.
+
+## Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/calculadora-django.git
